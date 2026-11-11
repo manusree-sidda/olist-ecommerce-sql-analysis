@@ -42,6 +42,7 @@ Multi-table joins, CTEs, window functions (LAG, NTILE, RANK, SUM OVER), conditio
 | 05_delivery_vs_reviews.sql | Late vs on-time delivery and review scores |
 | 06_delivery_by_state.sql | Delivery performance by state |
 | 07_worst_sellers.sql | Seller scorecard |
+| 08_kpis.sql | Dashboard KPI cards |
 
 ## Notes and limitations
 - Revenue in the monthly analysis and KPI cards uses payment value (includes freight); the category analysis uses item price only.
