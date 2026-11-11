@@ -11,7 +11,7 @@ Acting as an analyst at an e-commerce marketplace, I analyzed where revenue come
 PostgreSQL, DBeaver, Power BI Desktop
 
 ## Dashboard
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## Key findings
 1. **Revenue growth plateaued.** Monthly revenue grew from about $128K (Jan 2017) to about $1.1M (early 2018), peaking in Nov 2017 ($1.15M, +53.6% MoM, likely Black Friday), then flattened around $1.0-1.1M through Aug 2018.
